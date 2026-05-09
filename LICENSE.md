@@ -1,4 +1,4 @@
-
+Enhance Obsidian for macOS with Obsidian for macOS custom Extension - custom themes and focus mode, the #1 extension. Includes custom themes and focus mode for a smoother
 
 
 
